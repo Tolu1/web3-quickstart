@@ -1,0 +1,15 @@
+{
+  "name": "web3-quickstart",
+  "version": "1.0.0",
+  "description": "Web3 app scaffold using Hardhat, TypeScript, Next.js, RainbowKit and Wagmi",
+  "main": "app.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "author": "Toluwani Olugbesan",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.12.7"
+  }
+}
