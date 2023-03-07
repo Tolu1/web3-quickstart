@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main>
         <div className="flex justify-center items-center h-screen w-screen">
-          <div className="relative -top-16 p-6 bg-slate-500 bg-opacity-10 rounded-lg shadow-sm">
+          <div className="relative -top-16 p-6 bg-slate-500 bg-opacity-10 rounded-lg shadow-sm animate-bounce">
             <span className="text-2xl font-bold opacity-40 md:text-4xl xl:text-6xl">
               Web3 Quickstart
             </span>
